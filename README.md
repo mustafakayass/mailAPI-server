@@ -10,5 +10,5 @@ Content-Type: application/json
 
 - http://localhost:8080/api/email --POST 
 - 
-- client tarafı için de basit bir geliştirme yapıldı onu da client adıyla profilimde farklı bir repo'da bulabilirsiniz
+- client tarafı için de temel bir geliştirme yapıldı onu da client adıyla profilimde farklı bir repo'da bulabilirsiniz
 - application.properties dosyasındaki host,port,username,password bilgilerini kendi bilgilerinize göre düzenleyiniz.
